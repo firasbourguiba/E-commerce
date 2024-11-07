@@ -1,3 +1,4 @@
+USE ecommerce_;
 -- Reset the entire database
 
 --1. Drop the existing database if it exists

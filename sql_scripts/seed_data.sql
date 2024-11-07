@@ -1,3 +1,5 @@
+USE ecommerce_;
+
 -- Users
 INSERT INTO User (name, email, password) VALUES ('Alice Martin', 'alice@example.com', 'hashed_password1');
 INSERT INTO User (name, email, password) VALUES ('Bob Dupont', 'bob@example.com', 'hashed_password2');

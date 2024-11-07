@@ -6,7 +6,7 @@ echo "Autoload loaded successfully\n";
 $faker = Faker\Factory::create();
 
 // Database connection
-$pdo = new PDO('mysql:host=localhost;port=3307;dbname=ecommerce_db', 'root', 'ton_mot_de_passe');
+$pdo = new PDO('mysql:host=localhost;port=3307;dbname=ecommerce_', 'admine', '123');
 
 
 

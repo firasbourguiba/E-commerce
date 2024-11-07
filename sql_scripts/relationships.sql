@@ -1,3 +1,5 @@
+USE ecommerce_;
+
 -- Relation between User and Address
 ALTER TABLE Address 
 ADD CONSTRAINT fk_user_address

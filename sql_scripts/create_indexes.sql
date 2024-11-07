@@ -1,3 +1,4 @@
+USE ecommerce_;
 -- index l'email in user 
 CREATE INDEX idx_user_email ON User(email);
 
